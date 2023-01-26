@@ -1,0 +1,13 @@
+{
+  "version" : 2,
+  "net.ia.presenter" : {
+    "footertrailing" : "logo",
+    "bodyfont" : "Inter",
+    "logo" : "\/assets\/logo-craftwork-glyph.png",
+    "titlefont" : "Harmonia Sans Pro Cyr",
+    "template" : "new york"
+  },
+  "type" : "net.daringfireball.markdown",
+  "transient" : false,
+  "creatorIdentifier" : "net.ia.presenter"
+}
