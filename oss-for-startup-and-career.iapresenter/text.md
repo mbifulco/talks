@@ -4,7 +4,7 @@ background: true
 
 
 ---
-	/assets/DSCF6017.jpg
+/assets/DSCF6017.jpg
 background: true
 opacity: 20%
 
